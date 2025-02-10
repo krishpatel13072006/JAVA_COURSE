@@ -1,3 +1,5 @@
+package Datatype;
+
 public class Datatype {
     public static void main(String[] args) {
 
