@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/src/Variable_2/Static_variable.java" afterDir="false" />
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Static variable example and explanation">
+      <change afterPath="$PROJECT_DIR$/src/Wrapper_class/Autoboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrapper_class/unboxing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Datatype/Datatype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Datatype/Datatype.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +51,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Autoboxing.executor": "Run",
     "Application.Datatype.executor": "Run",
     "Application.Instance_variable.executor": "Run",
     "Application.Static_variable.executor": "Run",
     "Application.local_variable.executor": "Run",
+    "Application.unboxing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -117,12 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1739207999680</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Static variable example and explanation">
+      <option name="closed" value="true" />
+      <created>1739210765694</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739210765694</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="Static variable example and explanation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static variable example and explanation" />
   </component>
 </project>

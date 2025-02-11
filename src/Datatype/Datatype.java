@@ -10,6 +10,10 @@ public class Datatype {
         float x1 = x;
         System.out.println(x1);
 
+        char c='a';
+        byte b=(byte)c;
+        System.out.println(b);
+
         //narrowing type casting
         //higher datatype to lower datatype
         //user  cast the type of data
