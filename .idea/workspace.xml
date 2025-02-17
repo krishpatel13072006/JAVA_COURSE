@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Wrapper classes in java">
-      <change afterPath="$PROJECT_DIR$/src/Conditional_Statements/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional_Statements/IF_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional_Statements/If_elseif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional_Statements/If_example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional_Statements/Nested_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional_Statements/Switch_case.java" afterDir="false" />
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="control Statements">
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greater_of_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Do_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/for_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/while_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multiplication_table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sum_of_naturan_numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,15 +59,22 @@
     "Application.Autoboxing.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.Datatype.executor": "Run",
+    "Application.Do_while.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Greater_of_3.executor": "Run",
     "Application.IF_else.executor": "Run",
     "Application.If_elseif.executor": "Run",
     "Application.If_example.executor": "Run",
     "Application.Instance_variable.executor": "Run",
+    "Application.Multiplication_table.executor": "Debug",
     "Application.Nested_if.executor": "Run",
     "Application.Static_variable.executor": "Run",
+    "Application.Sum_of_naturan_numbers.executor": "Run",
     "Application.Switch_case.executor": "Run",
+    "Application.for_loop.executor": "Run",
     "Application.local_variable.executor": "Run",
     "Application.unboxing.executor": "Run",
+    "Application.while_loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -163,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739760840845</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="control Statements">
+      <option name="closed" value="true" />
+      <created>1739793472948</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739793472948</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,6 +188,7 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="Static variable example and explanation" />
     <MESSAGE value="Wrapper classes in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wrapper classes in java" />
+    <MESSAGE value="control Statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="control Statements" />
   </component>
 </project>
