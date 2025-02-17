@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Wrapper classes in java">
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Statements/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Statements/IF_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Statements/If_elseif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Statements/If_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Statements/Nested_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Statements/Switch_case.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +55,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Autoboxing.executor": "Run",
+    "Application.Calculator.executor": "Run",
     "Application.Datatype.executor": "Run",
+    "Application.IF_else.executor": "Run",
+    "Application.If_elseif.executor": "Run",
+    "Application.If_example.executor": "Run",
     "Application.Instance_variable.executor": "Run",
+    "Application.Nested_if.executor": "Run",
     "Application.Static_variable.executor": "Run",
+    "Application.Switch_case.executor": "Run",
     "Application.local_variable.executor": "Run",
     "Application.unboxing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
