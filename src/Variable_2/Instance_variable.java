@@ -8,7 +8,7 @@ public class Instance_variable {
 
     //class constructor
     public Instance_variable() {
-        this.age = 20;
+        age = 20;
     }
 
 
