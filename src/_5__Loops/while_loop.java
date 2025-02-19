@@ -1,4 +1,4 @@
-package Loops;
+package _5__Loops;
 import java .util.Scanner;
 public class while_loop {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Variable_2;
+package _2_Variable;
 
 public class Static_variable {
 

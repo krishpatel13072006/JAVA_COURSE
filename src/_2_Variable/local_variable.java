@@ -1,5 +1,4 @@
-package Variable_2;
-import java.math.*;
+package _2_Variable;
 
 public class local_variable {
 

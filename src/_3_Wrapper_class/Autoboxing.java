@@ -1,4 +1,4 @@
-package Wrapper_class;
+package _3_Wrapper_class;
 
 public class Autoboxing {
 
