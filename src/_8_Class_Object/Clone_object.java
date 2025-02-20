@@ -1,4 +1,4 @@
-package Class_Object;
+package _8_Class_Object;
 
 //by implementing cloneable interface we can create clone object of class;
 

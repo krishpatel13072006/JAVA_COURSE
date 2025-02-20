@@ -1,4 +1,4 @@
-package Class_Object;
+package _8_Class_Object;
 
 import java.io.*;
 

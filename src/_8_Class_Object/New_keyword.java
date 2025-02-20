@@ -1,4 +1,4 @@
-package Class_Object;
+package _8_Class_Object;
 
 //The new keyword in Java is used to create new instances of objects from a class.
 //Yes, when you use the new keyword in Java, it dynamically allocates memory for the new object on the heap.

@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="programs">
-      <change afterPath="$PROJECT_DIR$/src/Class_Object/Deserialisation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student.ser" afterDir="false" />
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Deserialisation of Object">
+      <change afterPath="$PROJECT_DIR$/src/ObjectClass_Methods/Equals_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectClass_Methods/ToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectClass_Methods/hashcode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class_Object/Clone_object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_8_Class_Object/Clone_object.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class_Object/Deserialisation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_8_Class_Object/Deserialisation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class_Object/New_keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_8_Class_Object/New_keyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class_Object/Newinstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_8_Class_Object/Newinstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student.ser" beforeDir="false" afterPath="$PROJECT_DIR$/student.ser" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +64,7 @@
     "Application.Datatype.executor": "Run",
     "Application.Deserialisation.executor": "Run",
     "Application.Do_while.executor": "Run",
+    "Application.Equals_method.executor": "Run",
     "Application.Example_1.executor": "Run",
     "Application.Example_2.executor": "Run",
     "Application.Factorial.executor": "Run",
@@ -75,7 +82,9 @@
     "Application.Static_variable.executor": "Run",
     "Application.Sum_of_naturan_numbers.executor": "Run",
     "Application.Switch_case.executor": "Run",
+    "Application.ToString.executor": "Run",
     "Application.for_loop.executor": "Run",
+    "Application.hashcode.executor": "Run",
     "Application.local_variable.executor": "Run",
     "Application.newinstance.executor": "Run",
     "Application.unboxing.executor": "Run",
@@ -234,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740020055639</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Deserialisation of Object">
+      <option name="closed" value="true" />
+      <created>1740029108725</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1740029108725</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -246,6 +263,7 @@
     <MESSAGE value="control Statements" />
     <MESSAGE value="Loops &amp; Programs" />
     <MESSAGE value="programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="programs" />
+    <MESSAGE value="Deserialisation of Object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deserialisation of Object" />
   </component>
 </project>
