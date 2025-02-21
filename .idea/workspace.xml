@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Object class Methods in java">
-      <change afterPath="$PROJECT_DIR$/src/_9_ObjectClass_Methods/finalise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Abstract_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Default.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Instance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/InterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Static_method.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -55,6 +61,7 @@
     "Application.Calculator.executor": "Run",
     "Application.Clone_object.executor": "Run",
     "Application.Datatype.executor": "Run",
+    "Application.Default.executor": "Run",
     "Application.Deserialisation.executor": "Run",
     "Application.Do_while.executor": "Run",
     "Application.Equals_method.executor": "Run",
@@ -66,12 +73,14 @@
     "Application.IF_else.executor": "Run",
     "Application.If_elseif.executor": "Run",
     "Application.If_example.executor": "Run",
+    "Application.Instance.executor": "Run",
     "Application.Instance_variable.executor": "Run",
     "Application.Multiplication_table.executor": "Debug",
     "Application.Nested_if.executor": "Run",
     "Application.New_keyword.executor": "Run",
     "Application.Newinstance.executor": "Run",
     "Application.Prime_number.executor": "Run",
+    "Application.Static_method.executor": "Run",
     "Application.Static_variable.executor": "Run",
     "Application.Sum_of_naturan_numbers.executor": "Run",
     "Application.Switch_case.executor": "Run",
@@ -253,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740066147789</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Object class Methods in java">
+      <option name="closed" value="true" />
+      <created>1740115110380</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740115110380</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
