@@ -1,4 +1,4 @@
-package Methods;
+package _10_Methods;
 
 public class Default implements InterfaceA ,InterfaceB {
 
