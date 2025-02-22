@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="formating">
+      <change afterPath="$PROJECT_DIR$/src/_12_Static_keyword/Nested_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Static_keyword/static_block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Static_keyword/static_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Static_keyword/variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Static_keyword/variable_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_2_Variable/Static_variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2_Variable/Static_variable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,62 +52,66 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Autoboxing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Break.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Clone_object.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructor_chaining_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructor_overloading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constuctor_chaining_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Datatype.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Default.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Default_constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Deserialisation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Do_while.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Equals_method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci_series.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Greater_of_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IF_else.executor&quot;: &quot;Run&quot;,
-    &quot;Application.If_elseif.executor&quot;: &quot;Run&quot;,
-    &quot;Application.If_example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Instance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Instance_variable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multiplication_table.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Nested_if.executor&quot;: &quot;Run&quot;,
-    &quot;Application.New_keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Newinstance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Parameterised_constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prime_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Static_method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Static_variable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_of_naturan_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swap_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch_case.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ToString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.finalise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.for_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hashcode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.local_variable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.newinstance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.unboxing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.while_loop.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/Java course/src/Datatype&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/HP/Desktop/java folder/java training course/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Autoboxing.executor": "Run",
+    "Application.Break.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Clone_object.executor": "Run",
+    "Application.Constructor_chaining_1.executor": "Run",
+    "Application.Constructor_overloading.executor": "Run",
+    "Application.Constuctor_chaining_2.executor": "Run",
+    "Application.Datatype.executor": "Run",
+    "Application.Default.executor": "Run",
+    "Application.Default_constructor.executor": "Run",
+    "Application.Deserialisation.executor": "Run",
+    "Application.Do_while.executor": "Run",
+    "Application.Equals_method.executor": "Run",
+    "Application.Example_1.executor": "Run",
+    "Application.Example_2.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci_series.executor": "Run",
+    "Application.Greater_of_3.executor": "Run",
+    "Application.IF_else.executor": "Run",
+    "Application.If_elseif.executor": "Run",
+    "Application.If_example.executor": "Run",
+    "Application.Instance.executor": "Run",
+    "Application.Instance_variable.executor": "Run",
+    "Application.Multiplication_table.executor": "Debug",
+    "Application.Nested_if.executor": "Run",
+    "Application.New_keyword.executor": "Run",
+    "Application.Newinstance.executor": "Run",
+    "Application.Palindrome_number.executor": "Run",
+    "Application.Parameterised_constructor.executor": "Run",
+    "Application.Prime_number.executor": "Run",
+    "Application.Reverse_number.executor": "Run",
+    "Application.Static_method.executor": "Run",
+    "Application.Static_variable.executor": "Run",
+    "Application.Sum_of_naturan_numbers.executor": "Run",
+    "Application.Swap_numbers.executor": "Run",
+    "Application.Switch_case.executor": "Run",
+    "Application.ToString.executor": "Run",
+    "Application.finalise.executor": "Run",
+    "Application.for_loop.executor": "Run",
+    "Application.hashcode.executor": "Run",
+    "Application.local_variable.executor": "Run",
+    "Application.newinstance.executor": "Run",
+    "Application.static_block.executor": "Run",
+    "Application.static_method.executor": "Run",
+    "Application.unboxing.executor": "Run",
+    "Application.variable.executor": "Run",
+    "Application.variable_2.executor": "Run",
+    "Application.while_loop.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/Java course/src/Datatype",
+    "onboarding.tips.debug.path": "C:/Users/HP/Desktop/java folder/java training course/src/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\Java course\src\Datatype" />
@@ -305,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740213555425</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="formating">
+      <option name="closed" value="true" />
+      <created>1740219295411</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1740219295411</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
