@@ -2,12 +2,10 @@ package _10_Methods;
 
 public class Static_method {
 
-    public static void oddeven(int num)
-    {
-        if(num%2==0)
-        {
+    public static void oddeven(int num) {
+        if (num % 2 == 0) {
             System.out.println("even number");
-        }else{
+        } else {
             System.out.println("odd number");
         }
     }
