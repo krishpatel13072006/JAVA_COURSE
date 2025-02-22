@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Object class Methods in java">
-      <change afterPath="$PROJECT_DIR$/src/Methods/Abstract_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Default.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Instance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/InterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Static_method.java" afterDir="false" />
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Methods in java &#10;Its types and Examples">
+      <change afterPath="$PROJECT_DIR$/src/Palindrome_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reverse_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swap_numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci_series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci_series.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,10 +77,13 @@
     "Application.Nested_if.executor": "Run",
     "Application.New_keyword.executor": "Run",
     "Application.Newinstance.executor": "Run",
+    "Application.Palindrome_number.executor": "Run",
     "Application.Prime_number.executor": "Run",
+    "Application.Reverse_number.executor": "Run",
     "Application.Static_method.executor": "Run",
     "Application.Static_variable.executor": "Run",
     "Application.Sum_of_naturan_numbers.executor": "Run",
+    "Application.Swap_numbers.executor": "Run",
     "Application.Switch_case.executor": "Run",
     "Application.ToString.executor": "Run",
     "Application.finalise.executor": "Run",
@@ -270,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740115110380</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Methods in java &#10;Its types and Examples">
+      <option name="closed" value="true" />
+      <created>1740146346877</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1740146346877</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -284,6 +293,7 @@
     <MESSAGE value="programs" />
     <MESSAGE value="Deserialisation of Object" />
     <MESSAGE value="Object class Methods in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Object class Methods in java" />
+    <MESSAGE value="Methods in java &#10;Its types and Examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Methods in java &#10;Its types and Examples" />
   </component>
 </project>
