@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="formating">
-      <change afterPath="$PROJECT_DIR$/src/_12_Static_keyword/Nested_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_Static_keyword/static_block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_Static_keyword/static_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_Static_keyword/variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_Static_keyword/variable_2.java" afterDir="false" />
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Static keyword in java">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Highest_factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_this_keyword/Constructor_chaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_this_keyword/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_this_keyword/method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_this_keyword/object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14_super_keyword/super_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14_super_keyword/variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse_numerb_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_9_ObjectClass_Methods/finalise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_9_ObjectClass_Methods/finalise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +65,7 @@
     "Application.Break.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.Clone_object.executor": "Run",
+    "Application.Constructor_chaining.executor": "Run",
     "Application.Constructor_chaining_1.executor": "Run",
     "Application.Constructor_overloading.executor": "Run",
     "Application.Constuctor_chaining_2.executor": "Run",
@@ -73,12 +80,14 @@
     "Application.Factorial.executor": "Run",
     "Application.Fibonacci_series.executor": "Run",
     "Application.Greater_of_3.executor": "Run",
+    "Application.Highest_factor.executor": "Run",
     "Application.IF_else.executor": "Run",
     "Application.If_elseif.executor": "Run",
     "Application.If_example.executor": "Run",
     "Application.Instance.executor": "Run",
     "Application.Instance_variable.executor": "Run",
     "Application.Multiplication_table.executor": "Debug",
+    "Application.Nested_class.executor": "Run",
     "Application.Nested_if.executor": "Run",
     "Application.New_keyword.executor": "Run",
     "Application.Newinstance.executor": "Run",
@@ -92,18 +101,24 @@
     "Application.Swap_numbers.executor": "Run",
     "Application.Switch_case.executor": "Run",
     "Application.ToString.executor": "Run",
+    "Application.Variable.executor": "Run",
+    "Application.demo.executor": "Run",
     "Application.finalise.executor": "Run",
     "Application.for_loop.executor": "Run",
     "Application.hashcode.executor": "Run",
     "Application.local_variable.executor": "Run",
     "Application.newinstance.executor": "Run",
+    "Application.object.executor": "Run",
+    "Application.reverse_numerb_2.executor": "Run",
     "Application.static_block.executor": "Run",
     "Application.static_method.executor": "Run",
+    "Application.super_class.executor": "Run",
     "Application.unboxing.executor": "Run",
     "Application.variable.executor": "Run",
     "Application.variable_2.executor": "Run",
     "Application.while_loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -321,7 +336,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740219295411</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Static keyword in java">
+      <option name="closed" value="true" />
+      <created>1740231749243</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1740231749245</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -339,6 +362,7 @@
     <MESSAGE value="Palindrome_number,Reverse_number,Swap_number Program" />
     <MESSAGE value="Constructor in java" />
     <MESSAGE value="formating" />
-    <option name="LAST_COMMIT_MESSAGE" value="formating" />
+    <MESSAGE value="Static keyword in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static keyword in java" />
   </component>
 </project>

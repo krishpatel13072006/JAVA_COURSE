@@ -25,7 +25,7 @@ public class finalise extends Object{
 
 
         new finalise();//by creating anonymous object
-        System.gc();// this method will force garbage collector to to garbage collection
+        System.gc();// this method will force garbage collector to do garbage collection
 
     }
 }
