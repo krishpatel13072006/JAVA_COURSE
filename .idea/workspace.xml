@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Static keyword in java">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Highest_factor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_13_this_keyword/Constructor_chaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_13_this_keyword/Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_13_this_keyword/method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_13_this_keyword/object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_14_super_keyword/super_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_14_super_keyword/variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverse_numerb_2.java" afterDir="false" />
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Super keyword in java&#10;This keyword in java&#10;Highest_factor program&#10;Palindrome number program">
+      <change afterPath="$PROJECT_DIR$/src/_15_final_kyeword/final_class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_9_ObjectClass_Methods/finalise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_9_ObjectClass_Methods/finalise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +93,7 @@
     "Application.ToString.executor": "Run",
     "Application.Variable.executor": "Run",
     "Application.demo.executor": "Run",
+    "Application.final_class.executor": "Run",
     "Application.finalise.executor": "Run",
     "Application.for_loop.executor": "Run",
     "Application.hashcode.executor": "Run",
@@ -344,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740231749245</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Super keyword in java&#10;This keyword in java&#10;Highest_factor program&#10;Palindrome number program">
+      <option name="closed" value="true" />
+      <created>1740378285171</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1740378285171</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -363,6 +362,7 @@
     <MESSAGE value="Constructor in java" />
     <MESSAGE value="formating" />
     <MESSAGE value="Static keyword in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Static keyword in java" />
+    <MESSAGE value="Super keyword in java&#10;This keyword in java&#10;Highest_factor program&#10;Palindrome number program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Super keyword in java&#10;This keyword in java&#10;Highest_factor program&#10;Palindrome number program" />
   </component>
 </project>
