@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="final keyword">
-      <change afterPath="$PROJECT_DIR$/src/_16_inheritance/Single_inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_16_inheritance/cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_16_inheritance/dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_16_inheritance/multilevel_main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_16_inheritance/single_main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_17_ISA_and_HAS_A_relation/car_ISA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_17_ISA_and_HAS_A_relation/college_HAS_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_17_ISA_and_HAS_A_relation/honda.java" afterDir="false" />
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="IS-A and HAS_A relation">
+      <change afterPath="$PROJECT_DIR$/src/_18_instanceof_operator/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_18_instanceof_operator/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_19_Abstraction/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_19_Abstraction/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_19_Abstraction/interfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_20_interface/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_20_interface/interfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_20_interface/interfaceB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.A.executor": "Run",
+    "Application.Animal.executor": "Run",
     "Application.Autoboxing.executor": "Run",
     "Application.Break.executor": "Run",
     "Application.Calculator.executor": "Run",
@@ -71,6 +73,7 @@
     "Application.Default_constructor.executor": "Run",
     "Application.Deserialisation.executor": "Run",
     "Application.Do_while.executor": "Run",
+    "Application.Dog.executor": "Run",
     "Application.Equals_method.executor": "Run",
     "Application.Example_1.executor": "Run",
     "Application.Example_2.executor": "Run",
@@ -362,7 +365,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740382572500</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="IS-A and HAS_A relation">
+      <option name="closed" value="true" />
+      <created>1740574467311</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1740574467311</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -383,6 +394,7 @@
     <MESSAGE value="Static keyword in java" />
     <MESSAGE value="Super keyword in java&#10;This keyword in java&#10;Highest_factor program&#10;Palindrome number program" />
     <MESSAGE value="final keyword" />
-    <option name="LAST_COMMIT_MESSAGE" value="final keyword" />
+    <MESSAGE value="IS-A and HAS_A relation" />
+    <option name="LAST_COMMIT_MESSAGE" value="IS-A and HAS_A relation" />
   </component>
 </project>
