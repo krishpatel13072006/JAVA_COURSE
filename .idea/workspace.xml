@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Abstraction and Interfaces" />
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Abstraction and Interfaces">
+      <change afterPath="$PROJECT_DIR$/src/_21_Encapsulation/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_22_Object_Clonning/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_23_Callbyvalue_reference/callby_reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_23_Callbyvalue_reference/callby_value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +58,7 @@
     "Application.A.executor": "Run",
     "Application.Animal.executor": "Run",
     "Application.Autoboxing.executor": "Run",
+    "Application.Bank.executor": "Run",
     "Application.Break.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.Clone_object.executor": "Run",
@@ -92,11 +100,13 @@
     "Application.Switch_case.executor": "Run",
     "Application.ToString.executor": "Run",
     "Application.Variable.executor": "Run",
+    "Application.callby_reference.executor": "Run",
     "Application.demo.executor": "Run",
     "Application.final_class.executor": "Run",
     "Application.finalise.executor": "Run",
     "Application.for_loop.executor": "Run",
     "Application.hashcode.executor": "Run",
+    "Application.hello.executor": "Run",
     "Application.honda.executor": "Run",
     "Application.local_variable.executor": "Run",
     "Application.multilevel_main.executor": "Run",
@@ -371,7 +381,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740754776752</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Abstraction and Interfaces">
+      <option name="closed" value="true" />
+      <created>1740755014089</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1740755014089</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
