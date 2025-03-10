@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Abstraction and Interfaces">
-      <change afterPath="$PROJECT_DIR$/src/_21_Encapsulation/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_22_Object_Clonning/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_23_Callbyvalue_reference/callby_reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_23_Callbyvalue_reference/callby_value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prime.java" afterDir="false" />
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="object Cloning &#10;call by value&#10;call by reference">
+      <change afterPath="$PROJECT_DIR$/src/_24_Exception_handling/Arithmetic_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_24_Exception_handling/Arryaindexoutofbound_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_24_Exception_handling/ClassnotfoundExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_24_Exception_handling/IO_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_24_Exception_handling/Try_catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_24_Exception_handling/nullpointer_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_24_Exception_handling/numberformat_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_24_Exception_handling/syntax_error.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,10 +60,13 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.A.executor": "Run",
     "Application.Animal.executor": "Run",
+    "Application.Arithematic_Exception.executor": "Run",
+    "Application.Arryaindexoutofbound_Exception.executor": "Run",
     "Application.Autoboxing.executor": "Run",
     "Application.Bank.executor": "Run",
     "Application.Break.executor": "Run",
     "Application.Calculator.executor": "Run",
+    "Application.ClassnotfoundExceptionExample.executor": "Run",
     "Application.Clone_object.executor": "Run",
     "Application.Constructor_chaining.executor": "Run",
     "Application.Constructor_chaining_1.executor": "Run",
@@ -80,6 +86,7 @@
     "Application.Greater_of_3.executor": "Run",
     "Application.Highest_factor.executor": "Run",
     "Application.IF_else.executor": "Run",
+    "Application.IO_Exception.executor": "Run",
     "Application.If_elseif.executor": "Run",
     "Application.If_example.executor": "Run",
     "Application.Instance.executor": "Run",
@@ -99,6 +106,7 @@
     "Application.Swap_numbers.executor": "Run",
     "Application.Switch_case.executor": "Run",
     "Application.ToString.executor": "Run",
+    "Application.Try_catch.executor": "Run",
     "Application.Variable.executor": "Run",
     "Application.callby_reference.executor": "Run",
     "Application.demo.executor": "Run",
@@ -111,12 +119,15 @@
     "Application.local_variable.executor": "Run",
     "Application.multilevel_main.executor": "Run",
     "Application.newinstance.executor": "Run",
+    "Application.nullpointer_example.executor": "Run",
+    "Application.numberformat_example.executor": "Run",
     "Application.object.executor": "Run",
     "Application.reverse_numerb_2.executor": "Run",
     "Application.single_main.executor": "Run",
     "Application.static_block.executor": "Run",
     "Application.static_method.executor": "Run",
     "Application.super_class.executor": "Run",
+    "Application.syntax_error.executor": "Coverage",
     "Application.teacher.executor": "Run",
     "Application.unboxing.executor": "Run",
     "Application.variable.executor": "Run",
@@ -139,6 +150,26 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="A__Break_keyword" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="syntax_error" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_24_Exception_handling.syntax_error" />
+      <module name="java training course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_24_Exception_handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.syntax_error" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -389,7 +420,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740755014089</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="object Cloning &#10;call by value&#10;call by reference">
+      <option name="closed" value="true" />
+      <created>1741588918948</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1741588918948</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -412,6 +451,12 @@
     <MESSAGE value="final keyword" />
     <MESSAGE value="IS-A and HAS_A relation" />
     <MESSAGE value="Abstraction and Interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstraction and Interfaces" />
+    <MESSAGE value="object Cloning &#10;call by value&#10;call by reference" />
+    <option name="LAST_COMMIT_MESSAGE" value="object Cloning &#10;call by value&#10;call by reference" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_course$syntax_error.ic" NAME="syntax_error Coverage Results" MODIFIED="1741599176480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>_24_Exception_handling.*</FILTER>
+    </SUITE>
   </component>
 </project>
