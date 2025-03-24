@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="exception handling&#10;Types of exception&#10;Try-Catch">
-      <change afterPath="$PROJECT_DIR$/src/_24_Exception_handling/Custom_exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_24_Exception_handling/Try_catch_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_24_Exception_handling/throw_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_24_Exception_handling/throw_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="exception handling" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -436,7 +430,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741599317238</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="exception handling">
+      <option name="closed" value="true" />
+      <created>1742215987623</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1742215987623</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -461,7 +463,8 @@
     <MESSAGE value="Abstraction and Interfaces" />
     <MESSAGE value="object Cloning &#10;call by value&#10;call by reference" />
     <MESSAGE value="exception handling&#10;Types of exception&#10;Try-Catch" />
-    <option name="LAST_COMMIT_MESSAGE" value="exception handling&#10;Types of exception&#10;Try-Catch" />
+    <MESSAGE value="exception handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="exception handling" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_course$syntax_error.ic" NAME="syntax_error Coverage Results" MODIFIED="1741599176480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
