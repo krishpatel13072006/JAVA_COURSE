@@ -8,7 +8,7 @@ public class Prime_number {
         System.out.println("Enter number to Check whether its Prime OR Not:- ");
         int n = sc.nextInt();
         int m = n / 2;
-        int flag = 1;
+        int flag = 0;
 
         if (n == 0 || n == 1) {
             System.out.println("NON PRIME !");
