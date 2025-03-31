@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/src/Array_reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reverse_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sum_of_oddeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/power.java" afterDir="false" />
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="programs">
+      <change afterPath="$PROJECT_DIR$/src/Inverted_half_pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solid_rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/floyds_triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/half_pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/half_pyramid_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/half_pyramid_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hollow_rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inverted_half_pyramid_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zero_one_triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,6 +94,7 @@
     "Application.If_example.executor": "Run",
     "Application.Instance.executor": "Run",
     "Application.Instance_variable.executor": "Run",
+    "Application.Inverted_half_pyramid.executor": "Run",
     "Application.Multiplication_table.executor": "Debug",
     "Application.Nested_class.executor": "Run",
     "Application.Nested_if.executor": "Run",
@@ -99,6 +105,7 @@
     "Application.Prime_number.executor": "Run",
     "Application.Reverse_String.executor": "Run",
     "Application.Reverse_number.executor": "Run",
+    "Application.Solid_rectangle.executor": "Run",
     "Application.Static_method.executor": "Run",
     "Application.Static_variable.executor": "Run",
     "Application.Sum_of_naturan_numbers.executor": "Run",
@@ -114,10 +121,16 @@
     "Application.demo.executor": "Run",
     "Application.final_class.executor": "Run",
     "Application.finalise.executor": "Run",
+    "Application.floyds_triangle.executor": "Run",
     "Application.for_loop.executor": "Run",
+    "Application.half_pyramid.executor": "Run",
+    "Application.half_pyramid_2.executor": "Run",
+    "Application.half_pyramid_numbers.executor": "Run",
     "Application.hashcode.executor": "Run",
     "Application.hello.executor": "Run",
+    "Application.hollow_rectangle.executor": "Run",
     "Application.honda.executor": "Run",
+    "Application.inverted_half_pyramid_numbers.executor": "Run",
     "Application.local_variable.executor": "Run",
     "Application.multilevel_main.executor": "Run",
     "Application.newinstance.executor": "Run",
@@ -138,6 +151,7 @@
     "Application.variable.executor": "Run",
     "Application.variable_2.executor": "Run",
     "Application.while_loop.executor": "Run",
+    "Application.zero_one_triangle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -465,7 +479,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742818223800</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="programs">
+      <option name="closed" value="true" />
+      <created>1743093274464</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1743093274464</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -476,7 +498,6 @@
     <MESSAGE value="Wrapper classes in java" />
     <MESSAGE value="control Statements" />
     <MESSAGE value="Loops &amp; Programs" />
-    <MESSAGE value="programs" />
     <MESSAGE value="Deserialisation of Object" />
     <MESSAGE value="Object class Methods in java" />
     <MESSAGE value="Methods in java &#10;Its types and Examples" />
@@ -492,7 +513,8 @@
     <MESSAGE value="exception handling&#10;Types of exception&#10;Try-Catch" />
     <MESSAGE value="exception handling" />
     <MESSAGE value="changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+    <MESSAGE value="programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="programs" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_course$syntax_error.ic" NAME="syntax_error Coverage Results" MODIFIED="1741599176480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
