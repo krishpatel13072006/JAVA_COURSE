@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/butterfly_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/diamond_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/number_pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindrome_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solid_rhombus.java" afterDir="false" />
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Pattern programs">
+      <change afterPath="$PROJECT_DIR$/src/Sum_of_digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_25_Stirngs/String_palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_25_Stirngs/methods_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_25_Stirngs/printAllSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_25_Stirngs/reverse_String_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Palindrome_number.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +104,8 @@
     "Application.Solid_rectangle.executor": "Run",
     "Application.Static_method.executor": "Run",
     "Application.Static_variable.executor": "Run",
+    "Application.String_palindrome.executor": "Run",
+    "Application.Sum_of_digits.executor": "Run",
     "Application.Sum_of_naturan_numbers.executor": "Run",
     "Application.Sum_of_oddeven.executor": "Run",
     "Application.Swap_numbers.executor": "Run",
@@ -131,6 +132,7 @@
     "Application.honda.executor": "Run",
     "Application.inverted_half_pyramid_numbers.executor": "Run",
     "Application.local_variable.executor": "Run",
+    "Application.methods_1.executor": "Run",
     "Application.multilevel_main.executor": "Run",
     "Application.newinstance.executor": "Run",
     "Application.nullpointer_example.executor": "Run",
@@ -139,6 +141,8 @@
     "Application.object.executor": "Run",
     "Application.palindrome_number.executor": "Run",
     "Application.power.executor": "Run",
+    "Application.printAllSubstring.executor": "Run",
+    "Application.reverse_String_2.executor": "Run",
     "Application.reverse_numerb_2.executor": "Run",
     "Application.single_main.executor": "Run",
     "Application.solid_rhombus.executor": "Run",
@@ -505,7 +509,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743406167876</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Pattern programs">
+      <option name="closed" value="true" />
+      <created>1743522705809</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1743522705809</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
