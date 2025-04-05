@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Pattern programs">
-      <change afterPath="$PROJECT_DIR$/src/Sum_of_digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_25_Stirngs/String_palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_25_Stirngs/methods_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_25_Stirngs/printAllSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_25_Stirngs/reverse_String_2.java" afterDir="false" />
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="String programs in java">
+      <change afterPath="$PROJECT_DIR$/src/Largest_in_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Smallest_in_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_26_Arrays/Largest_in_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_26_Arrays/Smallest_in_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_26_Arrays/update_array_elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/update_array_elements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +92,7 @@
     "Application.Instance.executor": "Run",
     "Application.Instance_variable.executor": "Run",
     "Application.Inverted_half_pyramid.executor": "Run",
+    "Application.Largest_in_array.executor": "Run",
     "Application.Multiplication_table.executor": "Debug",
     "Application.Nested_class.executor": "Run",
     "Application.Nested_if.executor": "Run",
@@ -101,6 +103,7 @@
     "Application.Prime_number.executor": "Run",
     "Application.Reverse_String.executor": "Run",
     "Application.Reverse_number.executor": "Run",
+    "Application.Smallest_in_array.executor": "Run",
     "Application.Solid_rectangle.executor": "Run",
     "Application.Static_method.executor": "Run",
     "Application.Static_variable.executor": "Run",
@@ -154,6 +157,7 @@
     "Application.throw_1.executor": "Run",
     "Application.throw_2.executor": "Run",
     "Application.unboxing.executor": "Run",
+    "Application.update_array_elements.executor": "Run",
     "Application.variable.executor": "Run",
     "Application.variable_2.executor": "Run",
     "Application.while_loop.executor": "Run",
@@ -517,7 +521,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743522705809</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="String programs in java">
+      <option name="closed" value="true" />
+      <created>1743691503148</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1743691503148</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -556,7 +568,8 @@
     <MESSAGE value="changes" />
     <MESSAGE value="programs" />
     <MESSAGE value="Pattern programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern programs" />
+    <MESSAGE value="String programs in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="String programs in java" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_course$syntax_error.ic" NAME="syntax_error Coverage Results" MODIFIED="1741599176480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
