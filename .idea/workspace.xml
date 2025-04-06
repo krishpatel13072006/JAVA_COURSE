@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Array programs in java">
-      <change afterPath="$PROJECT_DIR$/src/_26_Arrays/BinarySearch_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_26_Arrays/linearSearch_example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_26_Arrays/linerSearch_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_26_Arrays/Palindrome_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_26_Arrays/Reverse_array_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_26_Arrays/maxSubArraysSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_26_Arrays/pairs_in_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_26_Arrays/sub_arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +101,9 @@
     "Application.Palindrome_number.executor": "Run",
     "Application.Parameterised_constructor.executor": "Run",
     "Application.Prime_number.executor": "Run",
+    "Application.Reverse_Array.executor": "Run",
     "Application.Reverse_String.executor": "Run",
+    "Application.Reverse_array_2.executor": "Run",
     "Application.Reverse_number.executor": "Run",
     "Application.Smallest_in_array.executor": "Run",
     "Application.Solid_rectangle.executor": "Run",
@@ -120,6 +124,7 @@
     "Application.callby_value.executor": "Run",
     "Application.demo.executor": "Run",
     "Application.diamond_pattern.executor": "Run",
+    "Application.ding.executor": "Run",
     "Application.final_class.executor": "Run",
     "Application.finalise.executor": "Run",
     "Application.floyds_triangle.executor": "Run",
@@ -135,6 +140,7 @@
     "Application.linearSearch_example.executor": "Run",
     "Application.linerSearch_2.executor": "Run",
     "Application.local_variable.executor": "Run",
+    "Application.maxSubArraysSum.executor": "Run",
     "Application.methods_1.executor": "Run",
     "Application.multilevel_main.executor": "Run",
     "Application.newinstance.executor": "Run",
@@ -142,6 +148,7 @@
     "Application.number_pyramid.executor": "Run",
     "Application.numberformat_example.executor": "Run",
     "Application.object.executor": "Run",
+    "Application.pairs_in_arrays.executor": "Run",
     "Application.palindrome_number.executor": "Run",
     "Application.power.executor": "Run",
     "Application.printAllSubstring.executor": "Run",
@@ -151,6 +158,7 @@
     "Application.solid_rhombus.executor": "Run",
     "Application.static_block.executor": "Run",
     "Application.static_method.executor": "Run",
+    "Application.sub_arrays.executor": "Run",
     "Application.super_class.executor": "Run",
     "Application.syntax_error.executor": "Run",
     "Application.teacher.executor": "Run",
@@ -177,6 +185,8 @@
       <recent name="C:\Users\HP\Java course\src\Datatype" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_25_Stirngs" />
+      <recent name="_26_Arrays" />
       <recent name="" />
       <recent name="A__Break_keyword" />
     </key>
@@ -538,7 +548,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743824382161</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Array programs in java">
+      <option name="closed" value="true" />
+      <created>1743867130081</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1743867130081</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
