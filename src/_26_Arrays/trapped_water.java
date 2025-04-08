@@ -2,7 +2,7 @@ package _26_Arrays;
 
 public class trapped_water {
 
-    public static int trappedWater(int height[])
+    public static int trappedWater(int[] height)
     {
         int x=height.length;
 
