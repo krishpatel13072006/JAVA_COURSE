@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Array programs in java">
-      <change afterPath="$PROJECT_DIR$/src/_26_Arrays/Elements_repeatancy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_26_Arrays/Kadans_algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_26_Arrays/trapped_water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_27_Soritng_algorithms/booblesort_3_swapped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_27_Soritng_algorithms/bubblesort_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_27_Soritng_algorithms/bubblesort_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,9 @@
     &quot;accountId&quot;: &quot;c5d774af-bdee-4f4c-b028-05cf14db9a08&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -50,137 +53,141 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Animal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arithematic_Exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arryaindexoutofbound_Exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Autoboxing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bank.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearch_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Break.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassnotfoundExceptionExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Clone_object.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructor_chaining.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructor_chaining_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructor_overloading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constuctor_chaining_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Custom_exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Datatype.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Default.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Default_constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Deserialisation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Do_while.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dog.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Elements_repeatancy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Equals_method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci_series.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Greater_of_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Highest_factor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IF_else.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IO_Exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.If_elseif.executor&quot;: &quot;Run&quot;,
-    &quot;Application.If_example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Instance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Instance_variable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inverted_half_pyramid.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Kadans_algorithm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Largest_in_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multiplication_table.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Nested_class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Nested_if.executor&quot;: &quot;Run&quot;,
-    &quot;Application.New_keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Newinstance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Parameterised_constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prime_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_array_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Smallest_in_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solid_rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Static_method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Static_variable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_of_digits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_of_naturan_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_of_oddeven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swap_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch_case.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ToString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Try_catch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Try_catch_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Variable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.butterfly_pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.callby_reference.executor&quot;: &quot;Run&quot;,
-    &quot;Application.callby_value.executor&quot;: &quot;Run&quot;,
-    &quot;Application.demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.diamond_pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ding.executor&quot;: &quot;Run&quot;,
-    &quot;Application.final_class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.finalise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.floyds_triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.for_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.half_pyramid.executor&quot;: &quot;Run&quot;,
-    &quot;Application.half_pyramid_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.half_pyramid_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hashcode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hello.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hollow_rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.honda.executor&quot;: &quot;Run&quot;,
-    &quot;Application.inverted_half_pyramid_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.linearSearch_example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.linerSearch_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.local_variable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maxSubArraySum_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maxSubArraysSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.methods_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.multilevel_main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.newinstance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nullpointer_example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.number_pyramid.executor&quot;: &quot;Run&quot;,
-    &quot;Application.numberformat_example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.object.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pairs_in_arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.palindrome_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.power.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printAllSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverse_String_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverse_numerb_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.single_main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solid_rhombus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.static_block.executor&quot;: &quot;Run&quot;,
-    &quot;Application.static_method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sub_arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.super_class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.syntax_error.executor&quot;: &quot;Run&quot;,
-    &quot;Application.teacher.executor&quot;: &quot;Run&quot;,
-    &quot;Application.throw_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.throw_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.unboxing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.update_array_elements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.variable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.variable_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.while_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.zero_one_triangle.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/Java course/src/Datatype&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/HP/Desktop/java folder/java training course/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.A.executor": "Run",
+    "Application.Animal.executor": "Run",
+    "Application.Arithematic_Exception.executor": "Run",
+    "Application.Array_reverse.executor": "Run",
+    "Application.Arryaindexoutofbound_Exception.executor": "Run",
+    "Application.Autoboxing.executor": "Run",
+    "Application.Bank.executor": "Run",
+    "Application.BinarySearch_1.executor": "Run",
+    "Application.Break.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.ClassnotfoundExceptionExample.executor": "Run",
+    "Application.Clone_object.executor": "Run",
+    "Application.Constructor_chaining.executor": "Run",
+    "Application.Constructor_chaining_1.executor": "Run",
+    "Application.Constructor_overloading.executor": "Run",
+    "Application.Constuctor_chaining_2.executor": "Run",
+    "Application.Custom_exception.executor": "Run",
+    "Application.Datatype.executor": "Run",
+    "Application.Default.executor": "Run",
+    "Application.Default_constructor.executor": "Run",
+    "Application.Deserialisation.executor": "Run",
+    "Application.Do_while.executor": "Run",
+    "Application.Dog.executor": "Run",
+    "Application.Elements_repeatancy.executor": "Run",
+    "Application.Equals_method.executor": "Run",
+    "Application.Example_1.executor": "Run",
+    "Application.Example_2.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci_series.executor": "Run",
+    "Application.Greater_of_3.executor": "Run",
+    "Application.Highest_factor.executor": "Run",
+    "Application.IF_else.executor": "Run",
+    "Application.IO_Exception.executor": "Run",
+    "Application.If_elseif.executor": "Run",
+    "Application.If_example.executor": "Run",
+    "Application.Instance.executor": "Run",
+    "Application.Instance_variable.executor": "Run",
+    "Application.Inverted_half_pyramid.executor": "Run",
+    "Application.Kadans_algorithm.executor": "Run",
+    "Application.Largest_in_array.executor": "Run",
+    "Application.Multiplication_table.executor": "Debug",
+    "Application.Nested_class.executor": "Run",
+    "Application.Nested_if.executor": "Run",
+    "Application.New_keyword.executor": "Run",
+    "Application.Newinstance.executor": "Run",
+    "Application.Palindrome_number.executor": "Run",
+    "Application.Parameterised_constructor.executor": "Run",
+    "Application.Prime_number.executor": "Run",
+    "Application.Reverse_Array.executor": "Run",
+    "Application.Reverse_String.executor": "Run",
+    "Application.Reverse_array_2.executor": "Run",
+    "Application.Reverse_number.executor": "Run",
+    "Application.Smallest_in_array.executor": "Run",
+    "Application.Solid_rectangle.executor": "Run",
+    "Application.Static_method.executor": "Run",
+    "Application.Static_variable.executor": "Run",
+    "Application.String_palindrome.executor": "Run",
+    "Application.Sum_of_digits.executor": "Run",
+    "Application.Sum_of_naturan_numbers.executor": "Run",
+    "Application.Sum_of_oddeven.executor": "Run",
+    "Application.Swap_numbers.executor": "Run",
+    "Application.Switch_case.executor": "Run",
+    "Application.ToString.executor": "Run",
+    "Application.Try_catch.executor": "Run",
+    "Application.Try_catch_2.executor": "Run",
+    "Application.Variable.executor": "Run",
+    "Application.booblesort_3_swapped.executor": "Run",
+    "Application.bubblesort_1.executor": "Run",
+    "Application.bubblesort_2.executor": "Run",
+    "Application.butterfly_pattern.executor": "Run",
+    "Application.callby_reference.executor": "Run",
+    "Application.callby_value.executor": "Run",
+    "Application.demo.executor": "Run",
+    "Application.diamond_pattern.executor": "Run",
+    "Application.ding.executor": "Run",
+    "Application.final_class.executor": "Run",
+    "Application.finalise.executor": "Run",
+    "Application.floyds_triangle.executor": "Run",
+    "Application.for_loop.executor": "Run",
+    "Application.half_pyramid.executor": "Run",
+    "Application.half_pyramid_2.executor": "Run",
+    "Application.half_pyramid_numbers.executor": "Run",
+    "Application.hashcode.executor": "Run",
+    "Application.hello.executor": "Run",
+    "Application.hollow_rectangle.executor": "Run",
+    "Application.honda.executor": "Run",
+    "Application.inverted_half_pyramid_numbers.executor": "Run",
+    "Application.linearSearch_example.executor": "Run",
+    "Application.linerSearch_2.executor": "Run",
+    "Application.local_variable.executor": "Run",
+    "Application.maxSubArraySum_2.executor": "Run",
+    "Application.maxSubArraysSum.executor": "Run",
+    "Application.methods_1.executor": "Run",
+    "Application.multilevel_main.executor": "Run",
+    "Application.newinstance.executor": "Run",
+    "Application.nullpointer_example.executor": "Run",
+    "Application.number_pyramid.executor": "Run",
+    "Application.numberformat_example.executor": "Run",
+    "Application.object.executor": "Run",
+    "Application.pairs_in_arrays.executor": "Run",
+    "Application.palindrome_number.executor": "Run",
+    "Application.power.executor": "Run",
+    "Application.printAllSubstring.executor": "Run",
+    "Application.reverse_String_2.executor": "Run",
+    "Application.reverse_numerb_2.executor": "Run",
+    "Application.single_main.executor": "Run",
+    "Application.solid_rhombus.executor": "Run",
+    "Application.static_block.executor": "Run",
+    "Application.static_method.executor": "Run",
+    "Application.sub_arrays.executor": "Run",
+    "Application.super_class.executor": "Run",
+    "Application.syntax_error.executor": "Run",
+    "Application.teacher.executor": "Run",
+    "Application.throw_1.executor": "Run",
+    "Application.throw_2.executor": "Run",
+    "Application.trapped_water.executor": "Run",
+    "Application.unboxing.executor": "Run",
+    "Application.update_array_elements.executor": "Run",
+    "Application.variable.executor": "Run",
+    "Application.variable_2.executor": "Run",
+    "Application.while_loop.executor": "Run",
+    "Application.zero_one_triangle.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/Java course/src/Datatype",
+    "onboarding.tips.debug.path": "C:/Users/HP/Desktop/java folder/java training course/src/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\Java course\src\Datatype" />
@@ -206,8 +213,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="trapped_water" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_26_Arrays.trapped_water" />
+      <module name="java training course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_26_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.trapped_water" />
         <item itemvalue="Application.syntax_error" />
       </list>
     </recent_temporary>
@@ -589,7 +610,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743949008829</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Array programs in java">
+      <option name="closed" value="true" />
+      <created>1744079538282</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1744079538284</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Array programs in java">
+      <option name="closed" value="true" />
+      <created>1744079640754</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1744079640754</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
