@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="Array programs in java">
-      <change afterPath="$PROJECT_DIR$/src/_27_Soritng_algorithms/booblesort_3_swapped.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_27_Soritng_algorithms/bubblesort_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_27_Soritng_algorithms/bubblesort_2.java" afterDir="false" />
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="sorting programs in java">
+      <change afterPath="$PROJECT_DIR$/src/_26_2_2dArrays/matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_26_2_2dArrays/search_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_27_Soritng_algorithms/Insertion_sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_25_Stirngs/printAllSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_25_Stirngs/printAllSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_27_Soritng_algorithms/bubblesort_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_27_Soritng_algorithms/Selectionsort_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +93,7 @@
     "Application.IO_Exception.executor": "Run",
     "Application.If_elseif.executor": "Run",
     "Application.If_example.executor": "Run",
+    "Application.Insertion_sort.executor": "Run",
     "Application.Instance.executor": "Run",
     "Application.Instance_variable.executor": "Run",
     "Application.Inverted_half_pyramid.executor": "Run",
@@ -146,6 +149,7 @@
     "Application.linearSearch_example.executor": "Run",
     "Application.linerSearch_2.executor": "Run",
     "Application.local_variable.executor": "Run",
+    "Application.matrix.executor": "Run",
     "Application.maxSubArraySum_2.executor": "Run",
     "Application.maxSubArraysSum.executor": "Run",
     "Application.methods_1.executor": "Run",
@@ -161,6 +165,7 @@
     "Application.printAllSubstring.executor": "Run",
     "Application.reverse_String_2.executor": "Run",
     "Application.reverse_numerb_2.executor": "Run",
+    "Application.search_element.executor": "Run",
     "Application.single_main.executor": "Run",
     "Application.solid_rhombus.executor": "Run",
     "Application.static_block.executor": "Run",
@@ -228,8 +233,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.trapped_water" />
         <item itemvalue="Application.syntax_error" />
+        <item itemvalue="Application.trapped_water" />
       </list>
     </recent_temporary>
   </component>
@@ -626,7 +631,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744079640754</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="sorting programs in java">
+      <option name="closed" value="true" />
+      <created>1744167341728</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1744167341728</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -642,7 +655,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="Static variable example and explanation" />
     <MESSAGE value="Wrapper classes in java" />
@@ -667,7 +679,8 @@
     <MESSAGE value="Pattern programs" />
     <MESSAGE value="String programs in java" />
     <MESSAGE value="Array programs in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array programs in java" />
+    <MESSAGE value="sorting programs in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="sorting programs in java" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_course$syntax_error.ic" NAME="syntax_error Coverage Results" MODIFIED="1741599176480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">

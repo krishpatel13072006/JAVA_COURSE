@@ -1,6 +1,6 @@
 package _27_Soritng_algorithms;
 
-public class bubblesort_1 {
+public class Selectionsort_1 {
 
     public static void sort(int arr[])
     {
