@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment="sorting and 2D_Array programs in java">
-      <change afterPath="$PROJECT_DIR$/src/_26_2_2dArrays/Diagonal_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_26_2_2dArrays/spiral_matrix_2.java" afterDir="false" />
+    <list default="true" id="0972cc80-7beb-4bc8-96cd-f0f65e15bb5b" name="Changes" comment=" 2D_Array programs in java">
+      <change afterPath="$PROJECT_DIR$/src/_26_2_2dArrays/Search_elements_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_26_2_2dArrays/array_transpose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_26_2_2dArrays/count_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_26_2_2dArrays/sumofrow_elements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +40,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -81,6 +83,7 @@
     "Application.Dog.executor": "Run",
     "Application.Elements_repeatancy.executor": "Run",
     "Application.Equals_method.executor": "Run",
+    "Application.Example.executor": "Run",
     "Application.Example_1.executor": "Run",
     "Application.Example_2.executor": "Run",
     "Application.Factorial.executor": "Run",
@@ -109,6 +112,7 @@
     "Application.Reverse_String.executor": "Run",
     "Application.Reverse_array_2.executor": "Run",
     "Application.Reverse_number.executor": "Run",
+    "Application.Search_elements_2.executor": "Run",
     "Application.Smallest_in_array.executor": "Run",
     "Application.Solid_rectangle.executor": "Run",
     "Application.Spiral_matrix.executor": "Run",
@@ -124,12 +128,14 @@
     "Application.Try_catch.executor": "Run",
     "Application.Try_catch_2.executor": "Run",
     "Application.Variable.executor": "Run",
+    "Application.array_transpose.executor": "Run",
     "Application.booblesort_3_swapped.executor": "Run",
     "Application.bubblesort_1.executor": "Run",
     "Application.bubblesort_2.executor": "Run",
     "Application.butterfly_pattern.executor": "Run",
     "Application.callby_reference.executor": "Run",
     "Application.callby_value.executor": "Run",
+    "Application.count_number.executor": "Run",
     "Application.demo.executor": "Run",
     "Application.diamond_pattern.executor": "Run",
     "Application.ding.executor": "Run",
@@ -173,6 +179,7 @@
     "Application.static_block.executor": "Run",
     "Application.static_method.executor": "Run",
     "Application.sub_arrays.executor": "Run",
+    "Application.sumofrow_elements.executor": "Run",
     "Application.super_class.executor": "Run",
     "Application.syntax_error.executor": "Run",
     "Application.teacher.executor": "Run",
@@ -248,22 +255,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739000141253</updated>
-    </task>
-    <task id="LOCAL-00005" summary="second commit">
-      <option name="closed" value="true" />
-      <created>1739198515618</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1739198515620</updated>
-    </task>
-    <task id="LOCAL-00006" summary="second commit">
-      <option name="closed" value="true" />
-      <created>1739207999680</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1739207999680</updated>
     </task>
     <task id="LOCAL-00007" summary="Static variable example and explanation">
       <option name="closed" value="true" />
@@ -641,7 +632,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744655986302</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary=" 2D_Array programs in java">
+      <option name="closed" value="true" />
+      <created>1744686495401</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1744686495401</updated>
+    </task>
+    <task id="LOCAL-00055" summary=" 2D_Array programs in java">
+      <option name="closed" value="true" />
+      <created>1744686526120</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1744686526120</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -657,7 +664,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Static variable example and explanation" />
     <MESSAGE value="Wrapper classes in java" />
     <MESSAGE value="control Statements" />
     <MESSAGE value="Loops &amp; Programs" />
@@ -682,7 +688,8 @@
     <MESSAGE value="Array programs in java" />
     <MESSAGE value="sorting programs in java" />
     <MESSAGE value="sorting and 2D_Array programs in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="sorting and 2D_Array programs in java" />
+    <MESSAGE value=" 2D_Array programs in java" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 2D_Array programs in java" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_course$syntax_error.ic" NAME="syntax_error Coverage Results" MODIFIED="1741599176480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
